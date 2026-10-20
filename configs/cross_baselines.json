@@ -1,0 +1,408 @@
+{
+  "jobs": [
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970701,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970702,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970703,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970704,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970705,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970706,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970707,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970708,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970709,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970710,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_original",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_PSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_CSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_CLPSO",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_SLPSOGS",
+      "seconds_budget": 300.0
+    },
+    {
+      "case_index": 40,
+      "replicate": 970711,
+      "variant": "baseline_SLPSOUS",
+      "seconds_budget": 300.0
+    }
+  ],
+  "total": 66,
+  "smoke": false,
+  "objective_protocol": "author_cec_correct_segments_ordered_float64_v1",
+  "device_requirement": "local RTX 4060 Ti; same device as existing adaptive time endpoints",
+  "timing": "Recorded time protocol: shared swarm capture excluded, optimizer initialization and local captures included; synchronized eight-step checks; late values excluded.",
+  "policy": "Shared inertia; two accelerations and exemplars per subgroup; K-1 sorted searched cuts. Full-population exemplars. Fixed-half removes the cut coordinate.",
+  "transfer": "Per-replicate configuration selected only on its source, at a completed CoRePSO round. Target freezes the ten policy coordinates, disables outer policy updates and policy randomization, and retains CoRePSO state feedback and local operators.",
+  "reuse": "Default two-group target endpoints reuse the completed local recorded-time series; no uniform-time rerun."
+}

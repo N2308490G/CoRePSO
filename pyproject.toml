@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "corepso"
+version = "0.1.0"
+description = "Coupling-aware recombination and swarm-state inheritance for particle swarm optimization"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0,<3",
+  "scipy>=1.17,<2",
+  "torch>=2.6,<3",
+]
+
+[project.optional-dependencies]
+benchmark = ["numba>=0.61", "pandas>=2.2", "matplotlib>=3.9"]
+
+[project.urls]
+Repository = "https://github.com/N2308490G/CoRePSO"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = [
+  "corepso", "cuda_search", "experiment_v3", "legacy_core",
+  "cvbr", "rbc", "alternatives", "partition_policy",
+  "cuda_objectives", "canonical_benchmarks", "engineering_objectives",
+]

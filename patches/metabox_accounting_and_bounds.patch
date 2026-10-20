@@ -1,0 +1,54 @@
+diff --git a/src/environment/optimizer/dedqn_optimizer.py b/src/environment/optimizer/dedqn_optimizer.py
+index 5b90ba2..552c7db 100644
+--- a/src/environment/optimizer/dedqn_optimizer.py
++++ b/src/environment/optimizer/dedqn_optimizer.py
+@@ -253,9 +253,9 @@ class DEDQN_Optimizer(Learnable_Optimizer):
+         
+         samples = random_walk_sampling(self.__population, self.__dim, self.__rwsteps, self.rng)
+         if problem.optimum is None:
+-            samples_cost = problem.eval(self.__population)
++            samples_cost = problem.eval(samples)
+         else:
+-            samples_cost = problem.eval(self.__population) - problem.optimum
++            samples_cost = problem.eval(samples) - problem.optimum
+         # calculate fdc
+         fdc = cal_fdc(samples, samples_cost)
+         rie = cal_rie(samples_cost)
+@@ -343,7 +343,7 @@ class DEDQN_Optimizer(Learnable_Optimizer):
+             u_cost = problem.eval(u)
+         else:
+             u_cost = problem.eval(u) - problem.optimum
+-        self.fes += self.__NP
++        self.fes += 1
+         if u_cost <= self.__cost[self.__solution_pointer]:
+             self.__population[self.__solution_pointer] = u
+             self.__cost[self.__solution_pointer] = u_cost
+diff --git a/src/environment/optimizer/rlepso_optimizer.py b/src/environment/optimizer/rlepso_optimizer.py
+index ee3e1bb..da7512c 100644
+--- a/src/environment/optimizer/rlepso_optimizer.py
++++ b/src/environment/optimizer/rlepso_optimizer.py
+@@ -291,9 +291,7 @@ class RLEPSO_Optimizer(Learnable_Optimizer):
+         rand_vel = self.rng.uniform(low = -self.__max_velocity, high = self.__max_velocity, size = (self.__NP, self.__dim))
+         new_position = np.where(filter, rand_pos, self.__particles['current_position'])
+         new_velocity = np.where(filter, rand_vel, self.__particles['velocity'])
+-        pre_fes = self.fes
+         new_cost = self.__get_costs(problem, new_position)
+-        self.fes = pre_fes + np.sum(filter)
+ 
+         filters = new_cost < self.__particles['pbest']
+         new_cbest_val = np.min(new_cost)
+diff --git a/src/environment/optimizer/symbol_optimizer.py b/src/environment/optimizer/symbol_optimizer.py
+index 67f4cfd..4bd4966 100644
+--- a/src/environment/optimizer/symbol_optimizer.py
++++ b/src/environment/optimizer/symbol_optimizer.py
+@@ -691,8 +691,8 @@ class MadDE():
+             v[mu == 1] = v2
+             v[mu == 2] = v3
+ 
+-            v = np.where(v < self.min_x, (v + self.min_x) / 2, v)
+-            v = np.where(v > self.min_x, (v + self.max_x) / 2, v)
++            v = np.where(v < self.min_x, (self.population.current_position + self.min_x) / 2, v)
++            v = np.where(v > self.max_x, (self.population.current_position + self.max_x) / 2, v)
+             rvs = np.random.rand(NP)
+             Crs = Cr.repeat(dim).reshape(NP, dim)
+             u = np.zeros((NP, dim))

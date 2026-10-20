@@ -1,0 +1,41 @@
+{
+  "methods": [
+    "DEDQN",
+    "RLHPSDE",
+    "RLEPSO",
+    "GLEET",
+    "SYMBOL"
+  ],
+  "functions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "replicates": [
+    970701,
+    970702,
+    970703,
+    970704,
+    970705,
+    970706,
+    970707,
+    970708,
+    970709,
+    970710,
+    970711
+  ],
+  "budget": 24800000,
+  "smoke": false,
+  "selection": "final 100-epoch checkpoint",
+  "scope": "supplementary trained-baseline evaluation",
+  "budget_policy": "reject whole over-budget batch; report unused FEs"
+}

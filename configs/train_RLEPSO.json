@@ -1,0 +1,27 @@
+{
+  "method": "RLEPSO",
+  "epochs": 100,
+  "functions": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "dim": 20,
+  "train_seed": 3849,
+  "episode_stop_threshold": 20000,
+  "checkpoint_selection": "final epoch only",
+  "smoke": false,
+  "scope": "Supplementary protocol, not exact AutoPSO pretraining reproduction",
+  "accounting": "Full upstream update at threshold; all actual teacher and student queries recorded; per-oracle safety ceiling 100000",
+  "device": "cuda",
+  "dtype": "float64"
+}

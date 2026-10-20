@@ -1,0 +1,481 @@
+{
+  "configurations": [
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 10,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 10,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 10,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 50,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 50,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 50,
+      "N": 10,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 10,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 10,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 10,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 50,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 50,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 50,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 100,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 100,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 100,
+      "N": 50,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 50,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 50,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 50,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "ackley",
+      "dim": 200,
+      "B": 100,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "griewank",
+      "dim": 200,
+      "B": 100,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "population",
+      "name": "sphere",
+      "dim": 200,
+      "B": 100,
+      "N": 100,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 16,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 16,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 16,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 16,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 32,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 32,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 32,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 32,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 64,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 64,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 64,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 64,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 128,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 128,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 128,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 128,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 256,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 256,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 256,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 256,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 1024,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 1024,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 1024,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 1024,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 2048,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 2048,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 2048,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 2048,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 4096,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 4096,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 4096,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 4096,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 8192,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "griewank",
+      "dim": 8192,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "sphere",
+      "dim": 8192,
+      "B": 16,
+      "N": 40,
+      "device": "cuda"
+    },
+    {
+      "kind": "dimension",
+      "name": "ackley",
+      "dim": 8192,
+      "B": 16,
+      "N": 40,
+      "device": "cpu"
+    }
+  ],
+  "reps": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "rounds": 10,
+  "total": 627,
+  "smoke": false,
+  "objective_protocol": "author_cec_correct_segments_ordered_float64_v1",
+  "scope": "Full CoRePSO, H=100; fixed coordination rounds, not equal-FE accuracy comparisons.",
+  "timing": "Search/controller/local compilation included; objective and swarm graph preparation measured separately.",
+  "dimension_population": "B=16,N=40 matches the primary non-CEC setting; reference used B=N=100 on an RTX3090.",
+  "cpu": "One thread; CPU objective and population path; same round count, B, N, dtype and functions."
+}

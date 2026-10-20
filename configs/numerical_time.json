@@ -1,0 +1,442 @@
+{
+  "objective_protocol": "author_cec_correct_segments_ordered_float64_v1",
+  "execution_protocol": "cuda_wall_time_eight_step_checks_v1",
+  "cases": [
+    {
+      "group": "cec2022",
+      "name": "F1",
+      "dim": 10,
+      "fid": 1,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F2",
+      "dim": 10,
+      "fid": 2,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F3",
+      "dim": 10,
+      "fid": 3,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F4",
+      "dim": 10,
+      "fid": 4,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F5",
+      "dim": 10,
+      "fid": 5,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F6",
+      "dim": 10,
+      "fid": 6,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F7",
+      "dim": 10,
+      "fid": 7,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F8",
+      "dim": 10,
+      "fid": 8,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F9",
+      "dim": 10,
+      "fid": 9,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F10",
+      "dim": 10,
+      "fid": 10,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F11",
+      "dim": 10,
+      "fid": 11,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F12",
+      "dim": 10,
+      "fid": 12,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F1",
+      "dim": 20,
+      "fid": 1,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F2",
+      "dim": 20,
+      "fid": 2,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F3",
+      "dim": 20,
+      "fid": 3,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F4",
+      "dim": 20,
+      "fid": 4,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F5",
+      "dim": 20,
+      "fid": 5,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F6",
+      "dim": 20,
+      "fid": 6,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F7",
+      "dim": 20,
+      "fid": 7,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F8",
+      "dim": 20,
+      "fid": 8,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F9",
+      "dim": 20,
+      "fid": 9,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F10",
+      "dim": 20,
+      "fid": 10,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F11",
+      "dim": 20,
+      "fid": 11,
+      "instance": 0
+    },
+    {
+      "group": "cec2022",
+      "name": "F12",
+      "dim": 20,
+      "fid": 12,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "ackley",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "griewank",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rastrigin",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rosenbrock",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "schwefel",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "sphere",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "ackley",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "griewank",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rastrigin",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rosenbrock",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "schwefel",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "sphere",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "ackley",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "griewank",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rastrigin",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "rosenbrock",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "schwefel",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "canonical",
+      "name": "sphere",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "ackley",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "rastrigin",
+      "dim": 50,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "ackley",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "rastrigin",
+      "dim": 100,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "ackley",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "shiftrot",
+      "name": "rastrigin",
+      "dim": 200,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "ackley",
+      "dim": 500,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "rastrigin",
+      "dim": 500,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "ackley",
+      "dim": 1000,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "rastrigin",
+      "dim": 1000,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "ackley",
+      "dim": 2000,
+      "instance": 0
+    },
+    {
+      "group": "highdim",
+      "name": "rastrigin",
+      "dim": 2000,
+      "instance": 0
+    }
+  ],
+  "reps": [
+    970701,
+    970702,
+    970703,
+    970704,
+    970705,
+    970706,
+    970707,
+    970708,
+    970709,
+    970710,
+    970711
+  ],
+  "methods": [
+    "original",
+    "cvbr_hybrid"
+  ],
+  "seconds": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    120,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300,
+    300
+  ],
+  "populations": {
+    "cec2022": [
+      100,
+      100
+    ],
+    "other": [
+      16,
+      40
+    ]
+  },
+  "scope": "Local RTX4060Ti equal-time comparison, 11 seeds; not paper JAX/RTX3090 replication",
+  "timing": "Optimizer initialization, local graph compilation and all search work included; shared swarm capture and independent final verification excluded; late batches excluded from incumbent",
+  "method_order": "Alternating within each paired replicate",
+  "smoke": false,
+  "total_runs": 1188
+}

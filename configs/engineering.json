@@ -1,0 +1,2987 @@
+{
+  "protocol": "engineering_cec2011_equations_float64_v1",
+  "mode": "formal",
+  "jobs": [
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981001,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981002,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981003,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981004,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981005,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981006,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981007,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981008,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981009,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981010,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "FM-6D",
+        "kind": "fm",
+        "dim": 6
+      },
+      "seed": 981011,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981001,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981002,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981003,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981004,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981005,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981006,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981007,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981008,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981009,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981010,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-19D",
+        "kind": "radar",
+        "dim": 19
+      },
+      "seed": 981011,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981001,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981002,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981003,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981004,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981005,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981006,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981007,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981008,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981009,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981010,
+      "method": "no_inheritance",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "original",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "PSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "CSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "CLPSO",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "SLPSOGS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "SLPSOUS",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "cvbr_hybrid_no_split",
+      "budget": 1024000
+    },
+    {
+      "case": {
+        "name": "Radar-20D",
+        "kind": "radar",
+        "dim": 20
+      },
+      "seed": 981011,
+      "method": "no_inheritance",
+      "budget": 1024000
+    }
+  ],
+  "total": 297,
+  "outer_population": 16,
+  "inner_population": 40,
+  "baseline_population": 100,
+  "objective_source": "https://github.com/P-N-Suganthan/CEC-2011--Real_World_Problems",
+  "radar_definition": "Technical report equations (31)-(34), both signs via max(abs(phi)); distributed Matlab case 7 omits the negative branches and is not the definition used here.",
+  "scope": "Engineering application benchmarks, not field measurements or deployed systems; independent 11-run experiment, not a reproduction of the historical paper budgets or results.",
+  "budget_policy": "Exact common FE budget including initialization, finite differences, local search and rejected trials; final scalar verification excluded. Wall time includes per-run construction and graph capture; fixed shared objective validation excluded. No wall-clock superiority claim.",
+  "initialization": "Uniform physical bounds through affine [-5,5] coordinates for all algorithms; common seed identifiers do not imply identical initial populations.",
+  "statistics": "Means and sample SD per instance; independent two-sided Mann-Whitney comparisons, Holm over the 3 instances separately for each comparator; 11 optimization repetitions are not 11 independent problem instances.",
+  "hardware": "physical GPU0 NVIDIA RTX3090 only, float64; no concurrent jobs"
+}

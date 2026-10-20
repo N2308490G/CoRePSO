@@ -1,0 +1,73 @@
+fid,method,test,p_raw,direction,p_holm,significance
+1,AutoPSO,paired Wilcoxon signed-rank,0.125,win,1.0,not_rejected
+2,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+3,AutoPSO,paired Wilcoxon signed-rank,0.1015625,win,1.0,not_rejected
+4,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+5,AutoPSO,paired Wilcoxon signed-rank,1.0,tie,1.0,not_rejected
+6,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+7,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+8,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+9,AutoPSO,paired Wilcoxon signed-rank,1.0,tie,1.0,not_rejected
+10,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+11,AutoPSO,paired Wilcoxon signed-rank,0.0009765625,win,0.0244140625,win
+12,AutoPSO,paired Wilcoxon signed-rank,0.46484375,loss,1.0,not_rejected
+1,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+2,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",8.443538158249092e-06,win,0.0006079347473939347,win
+3,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",0.0877681118303241,loss,0.9654492301335651,not_rejected
+4,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+5,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",0.03590980031208974,win,0.46682740405716666,not_rejected
+6,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+7,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+8,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+9,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",0.06750306094922628,tie,0.8100367313907154,not_rejected
+10,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+11,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",8.443538158249092e-06,win,0.0006079347473939347,win
+12,DEDQN,"independent Mann-Whitney U, tie-corrected normal approximation",0.018049160352407456,win,0.2526882449337044,not_rejected
+1,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+2,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+3,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+4,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+5,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+6,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+7,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+8,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+9,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",6.266551143409048e-05,win,0.0028826135259681623,win
+10,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+11,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+12,SYMBOL,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+1,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",1.0,tie,1.0,not_rejected
+2,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",2.3886360943973215e-05,win,0.0015764998223022323,win
+3,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+4,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+5,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",2.5376882928366753e-05,win,0.0016241205074154722,win
+6,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+7,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+8,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",0.00010695988268558165,win,0.003586675896207028,win
+9,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",5.9041102149204506e-05,win,0.002791717747992201,win
+10,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+11,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",2.2604948046712575e-05,win,0.0015371364671764552,win
+12,GLEET,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+1,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",1.0,tie,1.0,not_rejected
+2,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",8.443538158249092e-06,win,0.0006079347473939347,win
+3,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.012586117500320345,loss,0.20137788000512552,not_rejected
+4,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",2.3309930824919147e-05,win,0.001561765365269583,win
+5,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.36330214088689794,win,1.0,not_rejected
+6,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+7,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.00581685721588046,win,0.09888657266996782,not_rejected
+8,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.8955142436987509,loss,1.0,not_rejected
+9,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.014684650570747209,tie,0.22026975856120812,not_rejected
+10,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+11,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",7.223729671679041e-05,win,0.0032506783522555684,win
+12,RLHPSDE,"independent Mann-Whitney U, tie-corrected normal approximation",0.0025228230618502987,win,0.04541081511330538,win
+1,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",1.0,tie,1.0,not_rejected
+2,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",2.4178776092749902e-05,win,0.0015764998223022323,win
+3,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+4,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+5,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+6,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+7,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+8,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win
+9,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",5.816078641650419e-05,win,0.002791717747992201,win
+10,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",2.552988611111549e-05,win,0.0016241205074154722,win
+11,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",1.4884174892926998e-05,win,0.0010270080676119627,win
+12,RLEPSO,"independent Mann-Whitney U, tie-corrected normal approximation",8.151536127743246e-05,win,0.003586675896207028,win

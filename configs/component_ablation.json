@@ -1,0 +1,135 @@
+{
+  "cases": [
+    {
+      "case_index": 17,
+      "group": "cec2022",
+      "name": "F6",
+      "dim": 20,
+      "fid": 6,
+      "instance": 0
+    },
+    {
+      "case_index": 12,
+      "group": "cec2022",
+      "name": "F1",
+      "dim": 20,
+      "fid": 1,
+      "instance": 0
+    },
+    {
+      "case_index": 13,
+      "group": "cec2022",
+      "name": "F2",
+      "dim": 20,
+      "fid": 2,
+      "instance": 0
+    },
+    {
+      "case_index": 14,
+      "group": "cec2022",
+      "name": "F3",
+      "dim": 20,
+      "fid": 3,
+      "instance": 0
+    },
+    {
+      "case_index": 15,
+      "group": "cec2022",
+      "name": "F4",
+      "dim": 20,
+      "fid": 4,
+      "instance": 0
+    },
+    {
+      "case_index": 16,
+      "group": "cec2022",
+      "name": "F5",
+      "dim": 20,
+      "fid": 5,
+      "instance": 0
+    },
+    {
+      "case_index": 18,
+      "group": "cec2022",
+      "name": "F7",
+      "dim": 20,
+      "fid": 7,
+      "instance": 0
+    },
+    {
+      "case_index": 19,
+      "group": "cec2022",
+      "name": "F8",
+      "dim": 20,
+      "fid": 8,
+      "instance": 0
+    },
+    {
+      "case_index": 20,
+      "group": "cec2022",
+      "name": "F9",
+      "dim": 20,
+      "fid": 9,
+      "instance": 0
+    },
+    {
+      "case_index": 21,
+      "group": "cec2022",
+      "name": "F10",
+      "dim": 20,
+      "fid": 10,
+      "instance": 0
+    },
+    {
+      "case_index": 22,
+      "group": "cec2022",
+      "name": "F11",
+      "dim": 20,
+      "fid": 11,
+      "instance": 0
+    },
+    {
+      "case_index": 23,
+      "group": "cec2022",
+      "name": "F12",
+      "dim": 20,
+      "fid": 12,
+      "instance": 0
+    }
+  ],
+  "methods": [
+    "no_inheritance",
+    "no_cvbr",
+    "no_curvature",
+    "no_polish",
+    "fitness_only"
+  ],
+  "descriptions": {
+    "no_inheritance": "Reset all particle states after each round; retain policy selection and update.",
+    "no_cvbr": "Replace CVBR calls by budgeted L-BFGS-B at the input center; retain curvature calls and parity.",
+    "no_curvature": "Use CVBR in all local-search slots, retaining their quotas.",
+    "no_polish": "Disable L-BFGS-B in both local operators; retain proposals and acceptance.",
+    "fitness_only": "Select centers and surviving states by stable fitness order, without spatial separation."
+  },
+  "reps": [
+    960701,
+    960702,
+    960703,
+    960704,
+    960705,
+    960706,
+    960707,
+    960708,
+    960709,
+    960710,
+    960711
+  ],
+  "budget": 24800000,
+  "B": 100,
+  "N": 100,
+  "objective_protocol": "author_cec_correct_segments_ordered_float64_v1",
+  "total": 660,
+  "reference": "Reuse full CoRePSO and no-splitting endpoints from results_cuda_20260906/main.",
+  "scope": "All 12 CEC-derived 20D cases, fixed one-factor controls; F6 first for timing.",
+  "rng": "7010300+100003*replicate+7919*case_index; same seed set as primary FE runs"
+}
